@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="recipemod"
+version="1.0.0"
+displayName="Recipe Blocker Mod"
+description='''
+Un mod que permite a los operadores (OPs) bloquear y desbloquear recetas de crafteo usando comandos.
+Solo los OPs pueden usar los comandos /bloquear y /desbloquear.
+'''
